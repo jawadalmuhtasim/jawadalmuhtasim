@@ -1,5 +1,31 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jawad%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+</div>
+
+   ```python
+class Jawad:
+
+    def __init__(self):
+        self.username = 'jawadalmuhtasim'
+        self.name = 'Jawad Al Muhtasim'
+        self.twitter = '@jawadalmuhtasim'
+        self.instagram = '@jawadalmuhtasim'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
+            'backend': ['Python', 'PHP', 'Django', 'NodeJS']
+        }
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Jawad()
+
+
+```
+
+<div align='center'>
+
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</</h1>
   <p></p>
   
