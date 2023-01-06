@@ -36,10 +36,10 @@ if __name__ == '__main__':
   </p>
     <p align='center'>
   
-  <a href="https://www.facebook.com/jawadalmuhtasim.page/">
+  <a href="https://www.facebook.com/jawadalmuhtasim1.0">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/jawadalmuhtasim?s=09">
+  <a href="https://twitter.com/jawadalmuhtasim">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>
   
